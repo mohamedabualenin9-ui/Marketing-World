@@ -1,0 +1,43 @@
+{
+    "main": [
+        {
+            "id": 1,
+            "title": "Main Product Name Here",
+            "price": "$99.99",
+            "description": "Short description highlighting features and benefits.",
+            "image": "",
+            "link": "https://example.com/product1"
+        },
+        {
+            "id": 2,
+            "title": "Secondary Product Name",
+            "price": "$79.99",
+            "description": "Short description for the secondary product.",
+            "image": "",
+            "link": "https://example.com/product2"
+        }
+    ],
+    "secondary": [
+        {
+            "id": 3,
+            "title": "Small Product 1",
+            "price": "$49.99",
+            "image": "",
+            "link": "https://example.com/product3"
+        },
+        {
+            "id": 4,
+            "title": "Small Product 2",
+            "price": "$39.99",
+            "image": "",
+            "link": "https://example.com/product4"
+        },
+        {
+            "id": 5,
+            "title": "Small Product 3",
+            "price": "$29.99",
+            "image": "",
+            "link": "https://example.com/product5"
+        }
+    ]
+}
